@@ -1,0 +1,16 @@
+.react-cmp{
+  height: 100%;
+  button{
+    border: none;
+    padding: 5px 10px;
+  }
+  .photo{
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+  }
+  ul, li {
+    padding: 0;
+    list-style: none;
+  }
+}
